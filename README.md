@@ -16,4 +16,3 @@ Our group decided to load the final database (Pokemon2_db) into a non-relational
 We hope that the updated Pokemon Go database might be of value to the community, and any further work in this topic will be interesting to see.
 <br><br>
 <br>
-"https://www.ign.com/wikis/pokemon-red-blue-yellow-version/Pikachu" 
